@@ -1,4 +1,4 @@
-# Three.js Journey
+# Three.js Cannonjs Exercise
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
