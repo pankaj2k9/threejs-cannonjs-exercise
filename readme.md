@@ -1,5 +1,8 @@
 # Three.js Cannonjs Exercise
 
+## Preview Url
+https://threejs-cannonjs-exercise.vercel.app
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
